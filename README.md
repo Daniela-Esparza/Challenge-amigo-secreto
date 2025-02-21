@@ -26,8 +26,8 @@ Una aplicación web interactiva que permite a los usuarios ingresar los nombres 
 1. **Clona el repositorio**  
    ```bash
    git clone https://daniela-esparza.github.io/Challenge-amigo-secreto/
+   
 2. Accede al proyecto
-bash
 cd amigo-secreto
 
 3. Abre el archivo index.html en tu navegador
