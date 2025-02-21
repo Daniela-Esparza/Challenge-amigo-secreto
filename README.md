@@ -28,7 +28,7 @@ Una aplicación web interactiva que permite a los usuarios ingresar los nombres 
    git clone https://daniela-esparza.github.io/Challenge-amigo-secreto/
    
 2. Accede al proyecto
-cd amigo-secreto
+cd Challenge-amigo-secreto
 
 3. Abre el archivo index.html en tu navegador
 Puedes hacer doble clic en el archivo o usar una extensión como Live Server en VS Code.
