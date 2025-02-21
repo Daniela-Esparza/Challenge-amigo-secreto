@@ -20,6 +20,13 @@ Una aplicación web interactiva que permite a los usuarios ingresar los nombres 
 - **CSS** → Estilos y diseño.  
 - **JavaScript** → Lógica del sorteo y manipulación del DOM.
 
+
+## 📥 Instalación y uso
+
+1. **Clona el repositorio**  
+   ```bash
+   git clone https://github.com/tu-usuario/amigo-secreto.git
+
 ## 🎮 Cómo jugar
 Escribe el nombre de un amigo en el campo de texto.
 Haz clic en "Añadir" para agregarlo a la lista.
